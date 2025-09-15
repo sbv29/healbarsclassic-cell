@@ -14,6 +14,8 @@ This addon fixes the issue with Cell not properly displaying HoTs and Prayer of 
 
 To use:
 
+Download the latest version under Releases (v1).
+
 - Please disable Cell's built in healing predictions in Cell options and use this addon for healing predictions.
 - Does not (currently) support Spotlight frames in Cell
 - You must be in a party or raid (if you happen to have raid frames not hidden when you are solo)
