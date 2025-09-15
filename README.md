@@ -15,7 +15,7 @@ This addon fixes the issue with Cell not properly displaying incoming HoTs and P
 If you use Cell, but miss having HoTs and Prayers on your bars like I did, try this out. This is as is for now, but if you have any issues, find me online or in the Classic Priest Discord.
 
 
-To use:
+## To use:
 
 
 - Download the latest version under Releases (v1) - HealBarsClassic-Cell-v1.zip and extract to your AddOns folder.
@@ -23,7 +23,7 @@ To use:
 - Use /hbc to customize colors, settings, etc.
 
 
-## Please Read
+## ** Please Read **
 
 - Does not (currently) support 'Spotlight' frames in Cell.
 - You MUST be in a party or raid (if you happen to have raid frames not hidden when you are solo). Please ensure you are in a group to test before saying it doesn't work. :)
