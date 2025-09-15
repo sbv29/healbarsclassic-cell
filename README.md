@@ -16,12 +16,17 @@ If you use Cell, but miss having HoTs and Prayers on your bars like I did, try t
 
 To use:
 
-Download the latest version under Releases (v1) - HealBarsClassic-Cell-v1.zip and extract to your AddOns folder.
 
-- Please ensure Cell's built in healing prediction is disabled in Cell options and use this addon for healing predictions (Cell Options > Appearance > Heal Prediction)
-- Does not (currently) support Spotlight frames in Cell
-- You MUST be in a party or raid (if you happen to have raid frames not hidden when you are solo).
-- Use /hbc to customize colors, settings, etc..
+- Download the latest version under Releases (v1) - HealBarsClassic-Cell-v1.zip and extract to your AddOns folder.
+- Ensure Cell's built in healing prediction is disabled in Cell options (Cell Options > Appearance > Heal Prediction). 
+- Use /hbc to customize colors, settings, etc...
+
+
+## Please Read
+
+- Does not (currently) support 'Spotlight' frames in Cell.
+- You MUST be in a party or raid (if you happen to have raid frames not hidden when you are solo). Please ensure you are in a group to test before saying it doesn't work. :)
+- Have only tested this in WoW Classic Anniversary.
 
 ---
 
