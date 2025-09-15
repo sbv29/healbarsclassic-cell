@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/github/downloads/sbv29/healbarsclassic-cell/total?style=flat-square)](https://github.com/sbv29/healbarsclassic-cell/releases)
 [![Issues](https://img.shields.io/github/issues/sbv29/healbarsclassic-cell?style=flat-square)](https://github.com/sbv29/healbarsclassic-cell/issues)
 
-**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell Raid Frames.**
+**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell**
 
 </div>
 
