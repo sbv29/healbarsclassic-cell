@@ -1,0 +1,45 @@
+# WoW Addon Development
+*.bak
+*.old
+*~
+.*.swp
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build and release files
+release/
+*.zip
+*.7z
+*.rar
+
+# Saved Variables (local testing)
+WTF/
+SavedVariables/
+
+# Development/Debug files
+debug.log
+*.log
+test/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Package manager
+node_modules/
+package-lock.json
+
+# Local configuration
+.env
+.claude/

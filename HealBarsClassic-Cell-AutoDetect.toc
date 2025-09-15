@@ -1,0 +1,11 @@
+## Interface: 11507
+## Title: HealBarsClassic-Cell AutoDetect
+## Notes: Automatically detects and integrates with Cell raid frames for HealBarsClassic-Cell
+## Author: HealBarsClassic Team
+## Version: 1.0.0
+## Dependencies: HealBarsClassic-Cell
+## LoadOnDemand: 0
+
+## SavedVariables: HealBarsClassicCellAutoDetectDB
+
+HealBarsClassic-Cell-AutoDetect.lua
