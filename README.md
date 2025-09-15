@@ -14,10 +14,9 @@ This addon fixes the issue with Cell not properly displaying incoming HoTs and P
 
 If you use Cell, but miss having HoTs and Prayers on your bars like I did, try this out.
 
-
- <div align="center">
-    <img src="https://i.imgur.com/jHenxE7.gif" alt="cellgif">
-  </div>
+<div>
+    <img src="https://i.imgur.com/jHenxE7.gif" alt="">
+</div>
 
 To use:
 
