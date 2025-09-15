@@ -21,6 +21,7 @@ If you use Cell, but miss having HoTs and Prayers on your bars like I did, try t
 - Download the latest version under Releases (v1) - HealBarsClassic-Cell-v1.zip and extract to your AddOns folder
 - Must have Cell addon installed
 - Ensure Cell's built in healing prediction is disabled in Cell options (Cell Options > Appearance > Heal Prediction)
+- If you had previous versions of HealBarsClassic - Hotfix, please ensure you disable it
 - Use /hbc to customize colors, settings, etc (just like the original HBC addon)
 
 
