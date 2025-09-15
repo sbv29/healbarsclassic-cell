@@ -20,7 +20,7 @@ Download the latest version under Releases (v1) - HealBarsClassic-Cell-v1.zip an
 
 - Please ensure Cell's built in healing prediction is disabled in Cell options and use this addon for healing predictions (Cell Options > Appearance > Heal Prediction)
 - Does not (currently) support Spotlight frames in Cell
-- You must be in a party or raid (if you happen to have raid frames not hidden when you are solo)
+- You MUST be in a party or raid (if you happen to have raid frames not hidden when you are solo).
 - Use /hbc to customize colors, settings, etc..
 
 ---
