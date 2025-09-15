@@ -1,4 +1,4 @@
-# HealBarsClassic-Cell
+# HealBarsClassic - Cell Raid Frames
 
 <div align="center">
 
