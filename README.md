@@ -27,7 +27,7 @@ To use:
 
 - Does not (currently) support 'Spotlight' frames in Cell.
 - You MUST be in a party or raid (if you happen to have raid frames not hidden when you are solo). Please ensure you are in a group to test before saying it doesn't work. :)
-- Have only tested this in WoW Classic Anniversary.
+- Have only tested this in WoW Classic Anniversary version (others may work, not sure don't play others)
 
 ---
 
