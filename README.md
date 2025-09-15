@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell using LibHealComm in Classic WoW.**
+**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction and added customizability for Cell using LibHealComm in Classic WoW.**
 
 </div>
 
