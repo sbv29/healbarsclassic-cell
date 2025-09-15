@@ -16,7 +16,7 @@ If you use Cell, but miss having HoTs and Prayers on your bars like I did, try t
 
 To use:
 
-Download the latest version under Releases (v1).
+Download the latest version under Releases (v1) - HealBarsClassic-Cell-v1.zip and extract to your AddOns folder.
 
 - Please ensure Cell's built in healing prediction is disabled in Cell options and use this addon for healing predictions (Cell Options > Appearance > Heal Prediction)
 - Does not (currently) support Spotlight frames in Cell
