@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/github/downloads/sbv29/HealBarsClassic-Cell/total?style=flat-square)](https://github.com/sbv29/HealBarsClassic-Cell/releases)
-
 **HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell**
 
 </div>
