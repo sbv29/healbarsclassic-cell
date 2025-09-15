@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/github/downloads/sbv29/healbarsclassic-cell/total?style=flat-square)](https://github.com/sbv29/healbarsclassic-cell/releases)
 [![Issues](https://img.shields.io/github/issues/sbv29/healbarsclassic-cell?style=flat-square)](https://github.com/sbv29/healbarsclassic-cell/issues)
 
-**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides Heal Prediction for Cell Raid Frames.**
+**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell Raid Frames.**
 
 </div>
 
@@ -14,7 +14,9 @@
 
 ## Overview
 
-This addon fixes the issue with Cell not properly displaying HoTs and Prayer of Healing by using better frame detection methods and Libcomm integration. 
+This addon fixes the issue with Cell not properly displaying HoTs and Prayer of Healing by using better frame detection methods and Libcomm integration.
+
+To use:
 
 - Please disable Cell's built in healing predictions in Cell options and use this addon for healing predictions.
 - Does not (currently) support Spotlight frames in Cell
@@ -26,4 +28,5 @@ This addon fixes the issue with Cell not properly displaying HoTs and Prayer of 
 
 <div align="center">
 
+rays ❤️ us-nightslayer
 </div>
