@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell**
+**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell using LibHealComm.**
 
 </div>
 
@@ -10,7 +10,9 @@
 
 ## Overview
 
-This addon fixes the issue with Cell not properly displaying incoming HoTs and Prayer of Healing from you and other players by using better frame detection methods using LibHealComm instead of Blizzard's API.
+This addon fixes the issue with Cell not properly displaying incoming HoTs and Prayer of Healing from you and other players in your raid by using better frame detection methods and LibHealComm instead of Blizzard's API. 
+
+If you use Cell, but miss having HoTs and Prayers on your bars like I did, try this out.
 
 To use:
 
