@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell using LibHealComm.**
+**HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell using LibHealComm in Classic WoW.**
 
 </div>
 
@@ -12,18 +12,15 @@
 
 This addon fixes the issue with Cell not properly displaying incoming HoTs and Prayer of Healing from you and other players in your raid by using better frame detection methods and LibHealComm instead of Blizzard's API. 
 
-If you use Cell, but miss having HoTs and Prayers on your bars like I did, try this out.
+If you use Cell, but miss having HoTs and Prayers on your bars like I did, try this out. This is as is for now, but if you have any issues, find me online or in the Classic Priest Discord.
 
-<div>
-    <img src="https://i.imgur.com/jHenxE7.gif" alt="">
-</div>
 
 To use:
 
 
 - Download the latest version under Releases (v1) - HealBarsClassic-Cell-v1.zip and extract to your AddOns folder.
 - Ensure Cell's built in healing prediction is disabled in Cell options (Cell Options > Appearance > Heal Prediction). 
-- Use /hbc to customize colors, settings, etc...
+- Use /hbc to customize colors, settings, etc.
 
 
 ## Please Read
@@ -36,6 +33,7 @@ To use:
 
 <div align="center">
 
-rays ❤️ us-nightslayer
+rays
+us-nightslayer
 
 </div>
