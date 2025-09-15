@@ -3,7 +3,16 @@
     "allow": [
       "Bash(rm:*)",
       "Bash(mv:*)",
-      "Read(//c/claude/new3/**)"
+      "Read(//c/claude/new3/**)",
+      "Bash(gh repo view:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git pull:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)"
     ],
     "deny": [],
     "ask": []
