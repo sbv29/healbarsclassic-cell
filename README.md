@@ -2,9 +2,7 @@
 
 <div align="center">
 
-[![GitHub release](https://img.shields.io/github/v/release/sbv29/healbarsclassic-cell?style=flat-square)](https://github.com/sbv29/healbarsclassic-cell/releases)
-[![Downloads](https://img.shields.io/github/downloads/sbv29/healbarsclassic-cell/total?style=flat-square)](https://github.com/sbv29/healbarsclassic-cell/releases)
-[![Issues](https://img.shields.io/github/issues/sbv29/healbarsclassic-cell?style=flat-square)](https://github.com/sbv29/healbarsclassic-cell/issues)
+[![Download](https://img.shields.io/github/downloads/sbv29/HealBarsClassic-Cell/total?style=flat-square)](https://github.com/sbv29/HealBarsClassic-Cell/releases)
 
 **HealBarsClassic-Cell is a fork of the abandoned HealBarsClassic that provides better Heal Prediction for Cell**
 
